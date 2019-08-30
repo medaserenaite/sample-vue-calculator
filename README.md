@@ -1,4 +1,5 @@
-# real-world-vue
+# sample-vue-calculator
+![sample-vue-calc](src/assets/sample-vue-calc.png)
 
 ## Project setup
 ```
